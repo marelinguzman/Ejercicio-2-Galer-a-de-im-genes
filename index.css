@@ -1,0 +1,132 @@
+.telefono {
+
+    width: 42.8rem;
+    height: 92.6rem;
+    margin: auto;
+    align-content: center;
+    display: flex;
+
+    flex-direction: column;
+    border-radius: 5rem;
+}
+.encabezado{
+    display: flex;
+
+    flex-direction: row;
+
+}
+.menu{
+    height: 3.3rem;
+    width: 3.7rem;
+    margin-top: 3.1rem;
+    margin-left: 4.2rem;
+}
+.textoHeader{
+    font-size: 2.2rem;
+    margin-left: 3.8rem;
+    margin-top: 3.8rem;
+}
+.imagenes{
+    display: flex;
+    justify-content: space-around;
+
+    flex-direction: row;
+    margin-top: 7.2rem;
+    margin-bottom: 7.8rem;
+    
+}
+.imgIndia1{
+    width: 18.1rem;
+    height: 30.1rem;
+    border-radius: 1.7rem;
+    box-shadow: 0 0 1rem grey;
+    background-image: url("./img/imagen1.png");
+    margin-bottom: 1.8rem;
+}
+.textoIndia1{
+    display: flex;
+
+    flex-direction: column;
+    color: white;
+    font-size: 1.4rem;
+    padding-top: 24.4rem;
+    padding-left: 0.9rem;
+}
+.imgIndia2{
+    width: 18.1rem;
+    height: 13.5rem;
+    border-radius: 1.7rem;
+    box-shadow: 0 0 1rem grey;
+    background-image: url("./img/imagen2.png");
+    margin-bottom: 2.2rem;
+}
+.textoIndia2{
+    display: flex;
+
+    flex-direction: column;
+    color: white;
+    font-size: 1.4rem;
+    padding-top: 7.8rem;
+    padding-left: 1rem;
+}
+.imgIndia3{
+    width: 18.1rem;
+    height: 14.4rem;
+    border-radius: 1.7rem;
+    box-shadow: 0 0 1rem grey;
+    background-image: url("./img/imagen3.png");
+}
+.textoIndia3{
+    display: flex;
+
+    flex-direction: column;
+    color: white;
+    font-size: 1.4rem;
+    padding-top: 7.9rem;
+    padding-left: 1rem;
+}
+
+.imgChina1{
+    width: 18.1rem;
+    height: 30.1rem;
+    border-radius: 1.7rem;
+    box-shadow: 0 0 1rem grey;
+    margin-bottom: 1.8rem;
+    background-image: url("./img/imagen4.png");
+}
+.textoChina1{
+    display: flex;
+
+    flex-direction: column;
+    color: white;
+    font-size: 1.4rem;
+    padding-top: 24.4rem;
+    padding-left: 1rem;
+}
+.imgChina2{
+    width: 18.1rem;
+    height: 30.1rem;
+    border-radius: 1.7rem;
+    box-shadow: 0 0 1rem grey;
+    background-image: url("./img/imagen4.png");
+}
+.textoChina2{
+    display: flex;
+
+    flex-direction: column;
+    color: white;
+    font-size: 1.4rem;
+    padding-top: 24.4rem;
+    padding-left: 1rem;
+}
+
+.crear{
+    display: flex;
+    justify-content: end;
+
+    flex-direction: row-reverse;
+}
+.imgCrear{
+    margin-right: 2.9rem;
+    margin-bottom: 4.2rem;
+}
