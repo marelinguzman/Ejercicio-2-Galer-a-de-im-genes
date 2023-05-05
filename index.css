@@ -15,9 +15,7 @@
 }
 .encabezado{
     display: flex;
-
     flex-direction: row;
-
 }
 .texDeHeader{
     font-size: 35.2px;
@@ -27,11 +25,9 @@
 .imagenes{
     display: flex;
     justify-content: space-around;
-
     flex-direction: row;
     margin-top: 115.2px;
     margin-bottom: 124.8px;
-    
 }
 .India1{
     width: 289.6px;
@@ -43,7 +39,6 @@
 }
 .fraseIndia{
     display: flex;
-
     flex-direction: column;
     color: white;
     font-size: 22.4px;
